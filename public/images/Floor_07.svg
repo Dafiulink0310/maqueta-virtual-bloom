@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="854" height="389" viewBox="0 0 854 389">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #7e5ec6;
+        fill-rule: evenodd;
+        opacity: 0.75;
+      }
+    </style>
+  </defs>
+  <path id="Floor_07" data-name="Floor 07" class="cls-1" d="M0,336L426,0,854,234v68L426,103,0,389V336Z"/>
+</svg>
